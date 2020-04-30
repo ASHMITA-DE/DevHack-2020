@@ -60,7 +60,7 @@ No setups required as such
 ----------------------------------
 List of team member names and email IDs
 SINJAN ROY - 1805529@kiit.ac.in
-SWAGATO BAG-1805537@kiit.ac.in
-GARGI SAHA- 1805485@kiit.ac.in
-ASHMITA DE- 1805474@kiit.ac.in
+SWAGATO BAG -1805537@kiit.ac.in
+GARGI SAHA - 1805485@kiit.ac.in
+ASHMITA DE - 1805474@kiit.ac.in
 List of team member names and email IDs
