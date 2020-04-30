@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2016 Pooja, SriHarsha
+  This code is available under the "MIT License".
+  Please see the file LICENSE in this distribution
+  for license terms.
+  -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.carP.SearchActivity"
+    android:background="@drawable/gradient">
+
+    <EditText
+        android:id="@+id/edit_Dest"
+        android:digits="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:ellipsize="end"
+        android:hint="@string/destPlace"
+        android:maxLines="1"/>
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edit_Dest"
+        android:id="@+id/btns"
+        android:orientation="horizontal"
+        android:layout_centerInParent="true">
+        <Button
+            android:layout_marginEnd="10dp"
+            android:layout_width="100dp"
+            android:background="@color/gradient5"
+            android:layout_height="wrap_content"
+            android:text="@string/search"
+            android:id="@+id/btn_Search" />
+        <Button
+            android:layout_marginEnd="10dp"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:background="@color/gradient6"
+            android:visibility="invisible"
+            android:text="@string/book_ride"
+            android:id="@+id/bookBtn"
+            />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="100dp"
+            android:background="@color/gradient0"
+            android:layout_height="wrap_content"
+            android:text="@string/cancel"
+            android:id="@+id/btn_SCancel" />
+    </LinearLayout>
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#000000"
+        android:text="@string/pick_up_location"
+        android:id="@+id/btn_pick"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/btns"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_alignParentEnd="true"
+        android:text="@string/get_place"
+        android:id="@+id/textView9"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/btn_pick"
+        android:layout_marginTop="20dp" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/RadioButtonGroup"
+        android:visibility="visible"
+        android:layout_below="@id/textView9"
+        android:layout_alignParentStart="true">
+    </RadioGroup>
+
+</RelativeLayout>

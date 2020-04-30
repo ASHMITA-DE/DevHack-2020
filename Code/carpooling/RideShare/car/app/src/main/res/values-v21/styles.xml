@@ -1,0 +1,12 @@
+<resources>>
+    <attr format="string" name="fontPath"/>
+    <item name="calligraphy_tag_id" type="id"/>
+
+    <!--<style name="buttonLogin" parent="android:style/Widget.Button">-->
+    <!--<item name="android:textColor">@color/primary_text</item>-->
+    <!--<item name="android:layout_marginBottom">20dp</item>-->
+    <!--<item name="android:padding">10dp</item>-->
+    <!--<item name="android:background">@drawable/button_login</item>-->
+    <!--</style>-->
+
+</resources>

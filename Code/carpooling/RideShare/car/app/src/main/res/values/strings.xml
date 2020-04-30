@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RideShare</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="hint_password">••••••</string>
+    <string name="hint_email">Email</string>
+    <string name="sign_in">Sign In</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="info_first">First Name</string>
+    <string name="info_last">Last Name</string>
+    <string name="info_phone">(555)555-555</string>
+    <string name="info_save">Save Information</string>
+
+    <string name="carno"> WB12V5657</string>
+    <string name="sourcePlace">Source</string>
+    <string name="destPlace">Destination</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="phone">Phone Number</string>
+    <string name="carNum">Car Number</string>
+    <string name="book_ride">Book Ride</string>
+    <string name="search">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="pick_up_location">Pick up location</string>
+    <string name="get_place">Get Place</string>
+    <string name="no_rides_available">No Rides Available!!</string>
+    <string name="ret">Return</string>
+    <string name="logout">Logout</string>
+</resources>

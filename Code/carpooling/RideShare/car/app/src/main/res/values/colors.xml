@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_text">#e2e2e2</color>
+
+    <color name="maroon">#A6637E</color>
+    <color name="teal">#539b96</color>
+    <color name="brown">#D59874</color>
+
+    //UniRide Theme
+    <color name="gradient0"> #df5a55 </color>
+    <color name="gradient5"> #563d91</color>
+    <color name="gradient6"> #56342e</color>
+
+    //Gradient Background
+    <color name="endColor"> #355C7D </color>
+    <color name="startColor"> #6C5B7B </color>
+    <color name="centerColor"> #F8B195</color>
+
+</resources>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2016 Pooja, SriHarsha
+  This code is available under the "MIT License".
+  Please see the file LICENSE in this distribution
+  for license terms.
+  -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@drawable/gradient">
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="UserID" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Medium Text"
+        android:id="@+id/textview_UserID" />
+
+    <EditText
+        android:id="@+id/editText_first_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="50dp"
+        android:ellipsize="end"
+        android:hint="@string/info_first"
+        android:inputType="textPersonName"
+        android:maxLines="1"
+        android:padding="10dp" />
+    <EditText
+        android:id="@+id/editText_last_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:ellipsize="end"
+        android:hint="@string/info_last"
+        android:inputType="textPersonName"
+        android:maxLines="1"
+        android:padding="10dp" />
+    <EditText
+        android:id="@+id/editText_PhoneNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:ellipsize="end"
+        android:hint="@string/info_phone"
+        android:inputType="phone"
+        android:digits="0123456789"
+        android:ems="10"
+        android:maxLines="1"
+        android:padding="10dp" />
+
+    <EditText
+        android:id="@+id/editText_CarNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:ellipsize="end"
+        android:hint="@string/carno"
+        android:ems="10"
+        android:maxLines="1"
+        android:padding="10dp" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_marginTop="10dp"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:background="@color/gradient5"
+        android:id="@+id/btn_UpdateProfile"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_marginTop="10dp"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:background="@color/gradient6"
+        android:text="Cancel"
+        android:id="@+id/btn_UpdateCancel"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

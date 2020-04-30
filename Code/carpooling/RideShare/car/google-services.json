@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "1077608003782",
+    "firebase_url": "https://car-pooling-3045c.firebaseio.com",
+    "project_id": "car-pooling-3045c",
+    "storage_bucket": "car-pooling-3045c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077608003782:android:a0a28b0031de4253c57fc7",
+        "android_client_info": {
+          "package_name": "com.example.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvr7f6_q2xZoLto0TKhsna3AkfWPHzeuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077608003782:android:f0c46cb889e2edc4c57fc7",
+        "android_client_info": {
+          "package_name": "com.example.carP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvr7f6_q2xZoLto0TKhsna3AkfWPHzeuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077608003782:android:a61e5d154ab24954c57fc7",
+        "android_client_info": {
+          "package_name": "com.example.car_pooling_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvr7f6_q2xZoLto0TKhsna3AkfWPHzeuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077608003782:android:05158084c0f70cb2c57fc7",
+        "android_client_info": {
+          "package_name": "com.example.carpooling_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvr7f6_q2xZoLto0TKhsna3AkfWPHzeuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077608003782:android:369b2306f3edf11fc57fc7",
+        "android_client_info": {
+          "package_name": "com.example.ride_share_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvr7f6_q2xZoLto0TKhsna3AkfWPHzeuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077608003782:android:40df61f24df92580c57fc7",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvr7f6_q2xZoLto0TKhsna3AkfWPHzeuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077608003782:android:5f92f948b568ebd9c57fc7",
+        "android_client_info": {
+          "package_name": "com.sjsu.se195.uniride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvr7f6_q2xZoLto0TKhsna3AkfWPHzeuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077608003782-u3isqb8famiha5gkfm90p3fh7funfb45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
